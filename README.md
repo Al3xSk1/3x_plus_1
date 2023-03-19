@@ -7,7 +7,7 @@ This is a cool Powershell Script that uses Python skript that creates a csv file
 
 run Run.ps1
 
-If it doesn't work check the Run.ps1 file and edit the version of R or location of R. The reason it is done this way is because using the R command reults in an alias for invoke-history being used
+If it doesn't work check the Run.ps1 file and edit the version of R or location of R. The reason it is done this way is because using the R command results in an alias for invoke-history being used
 
 ### Linux and MacOS
 
@@ -20,5 +20,3 @@ Enter your number
 run 3x_plus_1.R
 
 Open rplot.pdf
-## Errors
-
